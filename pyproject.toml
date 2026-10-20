@@ -1,6 +1,6 @@
 [project]
 name = "byzantine-calendar"
-version = "0.1.1"
+version = "0.1.2"
 description = "Converts between Gregorian dates and the Byzantine calendar."
 requires-python = ">=3.10"
 dependencies = []
